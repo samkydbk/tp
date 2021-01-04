@@ -1,0 +1,2 @@
+# tp
+phpcs,phplint,phpmd
