@@ -16,4 +16,6 @@ class Index
     public function  aaa()
     {
 
+    }    
+
 }
