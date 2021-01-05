@@ -27,7 +27,6 @@ class Index
      */
     public function hello($name = 'ThinkPHP5')
     {
-        $a = explode(",");
         return 'hello,' . $name;
     }
 }
